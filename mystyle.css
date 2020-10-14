@@ -9,3 +9,6 @@ p.fancy{
   color:#666;
   font-style: oblique;
 }
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
